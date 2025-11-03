@@ -1,29 +1,34 @@
-# OCTREE
+# WIZION
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-OCTREE-blue?logo=google-chrome)](https://octree.run/)
-[![Twitter](https://img.shields.io/badge/Twitter-OCTREE-blue?logo=twitter)](https://x.com/OCTREELAB)
+[![Website](https://img.shields.io/badge/Website-WIZION-blue?logo=google-chrome)](https://wizion.tech/)
+[![Twitter](https://img.shields.io/badge/Twitter-WIZION-blue?logo=twitter)](https://x.com/WIZIONBRG)
 
-CA: GiUhGdVCuFjVrWmhTc6UoPPfKzreg3eimUK7FVcopump
+WIZION is a programmable bridge that connects Bitcoin and Solana.
 
-OCTREE — An On-chain Multiverse Root System Built on the Solana Architecture
+It transforms Bitcoin from a “store-of-value” logic into a “generative” one, granting it renewed intelligence and liquidity within Solana’s high-speed environment.
 
-Octree transforms the linear flow of blockchain data into a fractal, root-based structure powered by Fractal State Root technology.
+Through a trustless cross-chain architecture, WIZION enables BTC to move freely within the programmable layer, no longer as a static asset held passively but as an active entity participating in trading, governance, liquidity, and automation.
 
-Instead of storing transactions as static snapshots, each event becomes a living root that can grow, fork, and merge into parallel states on-chain.
+The core of WIZION lies in redefining cross-chain relationships, allowing value not just to migrate but to transform.
 
-Every transaction on Solana generates a new State Root — an activatable branch of reality that can evolve independently or converge with others.
+Each bridge operation serves as a “translation” between Bitcoin and Solana, converting the non-programmable logic of value into composable intelligent logic.
 
-This enables an entirely new model of blockchain logic: one where data structures can regenerate, mutate, and inherit behavioral memory over time.
+This bridge connects not only two chains but also two execution paradigms, reviving Bitcoin’s stability within Solana’s programmable layer.
 
-In Octree, wallets and contracts are not endpoints but living roots in a distributed neural network.
-
-The system continuously detects structural similarity between roots, dynamically merging or diverging them to maintain equilibrium and growth.
-
-Leveraging Solana’s high-throughput architecture, Octree achieves near-instant fractal expansion, state forking, and visual mapping of multidimensional data.
-
-It represents a fundamental shift in how blockchain logic can exist, not as a chain of blocks, but as a living system of growing roots.
+```
+ █     █░ ██▓▒███████▒ ██▓ ▒█████   ███▄    █ 
+▓█░ █ ░█░▓██▒▒ ▒ ▒ ▄▀░▓██▒▒██▒  ██▒ ██ ▀█   █ 
+▒█░ █ ░█ ▒██▒░ ▒ ▄▀▒░ ▒██▒▒██░  ██▒▓██  ▀█ ██▒
+░█░ █ ░█ ░██░  ▄▀▒   ░░██░▒██   ██░▓██▒  ▐▌██▒
+░░██▒██▓ ░██░▒███████▒░██░░ ████▓▒░▒██░   ▓██░
+░ ▓░▒ ▒  ░▓  ░▒▒ ▓░▒░▒░▓  ░ ▒░▒░▒░ ░ ▒░   ▒ ▒ 
+  ▒ ░ ░   ▒ ░░░▒ ▒ ░ ▒ ▒ ░  ░ ▒ ▒░ ░ ░░   ░ ▒░
+  ░   ░   ▒ ░░ ░ ░ ░ ░ ▒ ░░ ░ ░ ▒     ░   ░ ░ 
+    ░     ░    ░ ░     ░      ░ ░           ░ 
+             ░                                
+```
