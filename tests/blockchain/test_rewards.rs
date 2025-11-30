@@ -70,6 +70,15 @@ pub struct Initialize<'info> {
     $ONCODE
     )}
 
+        console.log("[Oncode] Using wallet:", provider.wallet.publicKey.toBase58());
+  console.log("[Oncode] Target network:", config.network);
+  console.log("[Oncode] Modules:", config.modules.join(", "));
+
+  // In a real project, you would load the IDL and program here.
+  // const idl = JSON.parse(require("fs").readFileSync("./target/idl/oncode_staking.json", "utf8"));
+  // const programId = new anchor.web3.PublicKey("...");
+  // const program = new anchor.Program(idl, programId, provider);
+
         Entropy ↑ → Collapse() → Compress() → Reform() → Balance →
         $PURGESGI 
         )}
