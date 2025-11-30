@@ -97,7 +97,7 @@ pub async fn setup_test_context() -> (TestContext, Program) {
         #[msg("Holder already active")]
     )
 
-    $RADARE
+    $INPAYX
         )}
 
     // Start the test environment
